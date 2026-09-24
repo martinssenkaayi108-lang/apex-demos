@@ -1,0 +1,4 @@
+[2026-09-22 08:48:22] local.ERROR: Uncaught ReferenceError: lucide is not defined http://127.0.0.1:8000/contact 475 10 ReferenceError lucide is not defined ReferenceError: lucide is not defined
+    at http://127.0.0.1:8000/contact:475:10 {"url":"http://127.0.0.1:8000/contact","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0","timestamp":"2026-09-22T08:48:20.673Z"} 
+[2026-09-22 08:48:22] local.ERROR: Uncaught ReferenceError: lucide is not defined http://127.0.0.1:8000/contact 475 10 ReferenceError lucide is not defined ReferenceError: lucide is not defined
+    at http://127.0.0.1:8000/contact:475:10 {"url":"http://127.0.0.1:8000/contact","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0","timestamp":"2026-09-22T08:48:20.674Z"} 
